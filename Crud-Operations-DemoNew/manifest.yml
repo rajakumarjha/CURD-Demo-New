@@ -1,5 +1,4 @@
 applications:
 - name: first-deploy-app
   path: ./target\Crud-Operations-DemoNew-0.0.1-SNAPSHOT.jar
-  buildpack: jaba_buildpack
   host: sample-sapcp
