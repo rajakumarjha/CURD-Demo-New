@@ -2,3 +2,5 @@ applications:
 - name: first-deploy-app
   path: ./target\Crud-Operations-DemoNew-0.0.1-SNAPSHOT.jar
   host: sample-sapcp
+services:
+-MyPostgre
